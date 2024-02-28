@@ -1,0 +1,15 @@
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/Controllers/CommandeController.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/Utilisateur.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/repository/PanierRepository.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/PanierProduit.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/demo/DemoApplication.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/Panier.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/Produit.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/CommandeProduit.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/Controllers/PanierController.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/repository/ProduitRepository.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/repository/CommandeRepository.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/repository/UtilisateurRepository.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/Controllers/ProduitController.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/repository/PanierProduitRepository.java
+/home/dilia/ProjetGL/demo/src/main/java/com/example/eshop/model/Commande.java
